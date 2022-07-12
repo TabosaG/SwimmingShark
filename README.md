@@ -4,6 +4,9 @@
  
 I.A criada com o intuito de jogar um jogo baseado em FlappyBird chamado Swimming Shark, projeto final da matéria de Inteligência Artificial ofertada pelo curso de Engenharia de Controle e Automação pela Universidade Federal do Mato Grosso (UFMT).
 
+# Observação
+Todos os arquivos necessarios estão em SwimmingShark.rar é so baixar e descompactar.
+
 # Linguagens utilizadas
 ## Jogo
 - Python
